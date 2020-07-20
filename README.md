@@ -5,5 +5,6 @@ esta es una prueba para ver si entendemos GIT
 *TEXTO QUE AGREGUÉ*
 =======
 Karly y Migue si tienen acceso
+Hola al menos ya estoy aqui
 
 >>>>>>> .merge_file_zokNwy
