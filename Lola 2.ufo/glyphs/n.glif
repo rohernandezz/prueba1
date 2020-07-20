@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="n" format="2">
+  <advance width="698"/>
+  <unicode hex="006E"/>
+  <guideline x="-83" y="500" angle="0" identifier="v16OnJhAIo"/>
+  <outline>
+    <contour>
+      <point x="30" y="500" type="line"/>
+      <point x="30" y="0" type="line"/>
+      <point x="300" y="0" type="line"/>
+      <point x="300" y="330" type="line"/>
+      <point x="268" y="320" type="line"/>
+      <point x="262" y="320" type="line"/>
+      <point x="300" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="514" y="522" type="curve"/>
+      <point x="385" y="522"/>
+      <point x="289" y="395"/>
+      <point x="268" y="320" type="curve"/>
+      <point x="398" y="320" type="line"/>
+      <point x="398" y="0" type="line"/>
+      <point x="668" y="0" type="line"/>
+      <point x="673" y="329" type="line" smooth="yes"/>
+      <point x="675" y="458"/>
+      <point x="604" y="522"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020-06-30 01:04:48 +0000</string>
+    </dict>
+  </lib>
+</glyph>
