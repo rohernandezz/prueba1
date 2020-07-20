@@ -2345,6 +2345,8 @@
     <key>public.glyphOrder</key>
     <array>
       <string>space</string>
+      <string>comma</string>
+      <string>period</string>
       <string>A</string>
       <string>a</string>
       <string>b</string>
