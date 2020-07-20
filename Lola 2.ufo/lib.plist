@@ -2322,6 +2322,8 @@
     <integer>1</integer>
     <key>com.typemytype.robofont.compileSettings.checkOutlines</key>
     <integer>1</integer>
+    <key>com.typemytype.robofont.compileSettings.createDummyDSIG</key>
+    <true/>
     <key>com.typemytype.robofont.compileSettings.decompose</key>
     <integer>1</integer>
     <key>com.typemytype.robofont.compileSettings.generateFormat</key>
@@ -2332,8 +2334,12 @@
     <string>/Users/Ro/Desktop/Lola 2.otf</string>
     <key>com.typemytype.robofont.compileSettings.releaseMode</key>
     <integer>0</integer>
+    <key>com.typemytype.robofont.italicSlantOffset</key>
+    <integer>0</integer>
     <key>com.typemytype.robofont.segmentType</key>
     <string>curve</string>
+    <key>com.typemytype.robofont.shouldAddPointsInSplineConversion</key>
+    <integer>1</integer>
     <key>com.typemytype.robofont.smartSets.uniqueKey</key>
     <string>4633111056</string>
     <key>public.glyphOrder</key>
@@ -2367,5 +2373,9 @@
       <string>y</string>
       <string>z</string>
     </array>
+    <key>public.postscriptNames</key>
+    <dict/>
+    <key>public.skipExportGlyphs</key>
+    <array/>
   </dict>
 </plist>
